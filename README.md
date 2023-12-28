@@ -1,5 +1,7 @@
 # FristCustom
-![Patron_in_Ohmatdyt,_28_April_2022_(04)](https://github.com/Frist6361/FristCustom/assets/105719076/7c3215d3-0d37-4d70-84ab-50ebaefa8ec4)
+![image](https://github.com/Frist6361/FristCustom/assets/90521024/042c0828-752a-4730-88a9-770f79688eb4)
+
+
 
 FristCustom - многофункциональный Discord-бот с поддержкой различных функций. В этом README описаны основные возможности и инструкции по использованию.
 
